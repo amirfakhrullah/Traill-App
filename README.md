@@ -37,7 +37,7 @@ Kanban Bug Tracking System - track the bugs and also the development of software
 * CSS
 * HTML
 
-### Back-End (Code not provided here)
+### Back-End
 
 * Google Auth2.0
 * REST APIs
